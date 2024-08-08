@@ -1,0 +1,86 @@
+solid 
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan -0
+   outer loop
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+   endloop
+endfacet
+facet normal nan nan 0
+   outer loop
+vertex 0 3.45431e+034 nan
+vertex 0 3.45431e+034 nan
+vertex 8.99981e-039 3.45431e+034 nan
+   endloop
+endfacet
+endsolid 

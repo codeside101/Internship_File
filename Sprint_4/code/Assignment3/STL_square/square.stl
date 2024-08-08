@@ -1,0 +1,86 @@
+solid 
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+   endloop
+endfacet
+facet normal nan nan nan
+   outer loop
+vertex 0 -9.12299e+007 nan
+vertex 8.99981e-039 -9.12299e+007 nan
+vertex 0 -9.12299e+007 nan
+   endloop
+endfacet
+endsolid 
